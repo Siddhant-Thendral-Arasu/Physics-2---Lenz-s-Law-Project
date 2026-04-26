@@ -8,3 +8,6 @@ Available modifiers include:
 Current strength is calculated in accordance with the following formula:
 I(z) = (0.5 * mu_naught * velocity) * (3 * loop_radius^2 * rel_height) / (rel_height^2 + loop_radius^2)^(2.5),
 where factors like magnetic dipole and resistance are held constant at 1 (velocity is assumed to be constant at 0.1).
+
+Built With:
+JavaScript, Three.js, Vite
