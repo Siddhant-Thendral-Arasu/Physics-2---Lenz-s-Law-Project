@@ -60,7 +60,7 @@ const infoBox = document.createElement('div');
 infoBox.style.cssText = `
   position: fixed;
   top: 140px;
-  left: 1845px;
+  right: 40px;
   width: 420px;
   height: 0px;
   background: rgba(255,255,255,0.1);
