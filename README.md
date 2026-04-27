@@ -3,9 +3,9 @@ This is an interactive 3D Lenz's Law visualizer through a single loop for an AP 
 The simulation showcases how changing magnetic fields induce current in a loop, with direction determined by changes in magnetic flux.
 
 ## Features:
--Magnet orientation
--Position relative to loop
--Dynamic velocity driven by position slider
+- Magnet orientation
+- Position relative to loop
+- Dynamic velocity driven by position slider
 
 ## Physics Model
 
