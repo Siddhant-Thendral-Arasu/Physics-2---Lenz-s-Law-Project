@@ -10,7 +10,7 @@ The simulation showcases how changing magnetic fields induce current in a loop, 
 ## Physics Model
 
 Current strength is approximated by the following dipole-based formula:
-I(z) = (0.5 * μ₀ * velocity) * (3 * loop_radius^2 * rel_height) / (rel_height^2 + loop_radius^2)^(2.5),
+$$I(z) = (0.5 \cdot \mu_0 \cdot v) \cdot \frac{3 \cdot R^2 \cdot z}{(z^2 + R^2)^{2.5}}$$
 
 Where:
 - μ₀ is the magnetic constant (treated as one for current normalization)
